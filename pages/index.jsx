@@ -25,14 +25,14 @@ export default function Home() {
       <Card>
         
 
-        <Link href="/confederacy">
+        <Link href="/confederacy" passHref>
         <ButtonLai>
         <a>Para a Confederação Galática Vulpina</a>
           </ButtonLai>
           </Link>
            <br/>
 
-           <Link href="/nation">
+           <Link href="/nation" passHref>
           <ButtonCorvo>
            <a>Para o Furros Animados</a>
           </ButtonCorvo>

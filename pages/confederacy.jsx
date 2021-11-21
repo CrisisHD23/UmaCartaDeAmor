@@ -12,7 +12,7 @@ export default function Home() {
     <GlobalStyle/>
       <body>
       <Head>
-        <title>Create Next App</title>
+        <title>Confederação</title>
         <meta name="description" content="uma carta de amor OwO" />
         <link rel="icon" href="/favicon.ico" />
       </Head>
